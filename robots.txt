@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shorelinerealestate.grok.me/sitemap.xml
